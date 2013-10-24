@@ -6,6 +6,7 @@ Built as Real-time twit monitor application with [Node.js](http://www.nodejs.org
 ## Set up
 To run, you'll first need to get a [Twitter Developer Account](https://dev.twitter.com/apps/new). Once you
 have this, create a json file called `twitter.json` in the following format:
+
     {
         "consumer_key": "YOUR_CONSUMER_KEY_HERE",
         "consumer_secret": "YOUR_CONSUMER_SECRET_HERE",
