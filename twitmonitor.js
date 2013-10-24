@@ -8,9 +8,9 @@ var express 	= require('express')
 	;
 
 
-var app 		= express();
-var server 	= http.createServer(app);
-var io 			= SocketIO.listen(server);
+var app			= express();
+var server	= http.createServer(app);
+var io			= SocketIO.listen(server);
 
 
 // socket io config
